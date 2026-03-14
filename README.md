@@ -1,4 +1,4 @@
-# Credit Risk Assessment Using Machine Learning
+# Loan Approval Prediction Using Machine Learning
 
 ## Overview
 This project focuses on building a machine learning–based system to assess the credit risk of customers using financial and demographic information. The goal is to support lending decisions by predicting the likelihood of default in a transparent and data-driven manner.
